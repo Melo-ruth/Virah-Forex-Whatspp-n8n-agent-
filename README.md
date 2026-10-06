@@ -1,4 +1,4 @@
-# Virah Forex Bureau – WhatsApp AI Agent ("Valerie")
+# Virah Forex Bureau – WhatsApp AI Agent 
 
 An intelligent WhatsApp automation system built with n8n that handles customer inquiries for Virah Forex Bureau, a licensed multi-branch forex bureau in Uganda. The agent is live in production and answers customer questions about working hours, branch locations, forex policies and business rules, escalating to staff when it cannot help.
 
